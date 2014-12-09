@@ -15,7 +15,8 @@ module.exports = function(grunt) {
             options: {
                 viewport: '1024x768',
                 server: 'http://komasui.boobie.jp/',
-                delay: 3000 // ソーシャルボタン描画、1秒は必要
+                delay: 5000, // ソーシャルボタン描画、5秒は必要
+                closeDelay: 3000
             },
             pc: {
                 expand: true,
