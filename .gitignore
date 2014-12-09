@@ -1,2 +1,4 @@
 .DS_Store
-node_modules/
+._.DS_Store
+/node_modules/
+!/node_modules/grunt-phantomjs-screenshot/

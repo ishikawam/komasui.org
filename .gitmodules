@@ -1,0 +1,3 @@
+[submodule "node_modules/grunt-phantomjs-screenshot"]
+	path = node_modules/grunt-phantomjs-screenshot
+	url = git@github.com:ishikawam/grunt-phantomjs-screenshot.git
